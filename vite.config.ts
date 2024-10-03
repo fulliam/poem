@@ -36,7 +36,7 @@ function emptySourcemapFix(): Plugin {
 
 export default defineConfig({
   plugins: [vue(), emptySourcemapFix()],
-  base: '/poem/',
+  base: '/poem',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),
