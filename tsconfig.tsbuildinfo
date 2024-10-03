@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/types/index.ts","./src/types/components/index.ts","./src/types/components/checkbox/index.ts","./src/types/poem/index.ts","./src/views/poem/data/index.ts","./src/app.vue","./src/components/checkbox/index.vue","./src/components/quatrain/index.vue","./src/views/poem/index.vue"],"version":"5.6.2"}
